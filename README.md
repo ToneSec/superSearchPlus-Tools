@@ -9,3 +9,15 @@ https://addons.mozilla.org/zh-CN/firefox/addon/supersearchplus/?utm_source=addon
 <img width="1347" height="869" alt="QQ截图20251206164046" src="https://github.com/user-attachments/assets/c2847ac6-53ca-4a6d-b206-2be322e74a0b" />
 
 <img width="1346" height="762" alt="QQ截图20251206164820" src="https://github.com/user-attachments/assets/32788723-7f63-4791-b19a-2b1c9aaf4855" />
+
+# 
+使用效果
+
+工具版
+
+<img width="877" height="665" alt="QQ截图20251206175146" src="https://github.com/user-attachments/assets/d5a29e01-21a2-4086-938e-ba6d30c5977b" />
+
+# 
+插件版
+
+<img width="1353" height="815" alt="QQ截图20251206180957" src="https://github.com/user-attachments/assets/15867417-6c11-4016-bd3c-831b69c215f4" />
